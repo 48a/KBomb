@@ -25,6 +25,6 @@ echo '▄▄▄█████▓▓█████  ██▀███   ██
 echo Добро пожаловать в KBomb!
 echo В следущий раз для запуска KBomb пишите: python3 bomber.py. Нажмите Enter чтобы продолжить...
 read k
-chmod +x bomber.py
-python3 bomber.py
+chmod +x KBomb.py
+python3 KBomb.py
 rm install.sh
